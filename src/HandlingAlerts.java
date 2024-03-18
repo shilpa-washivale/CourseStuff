@@ -7,6 +7,8 @@ public class HandlingAlerts {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+//		Handle_alerts
+		
 
 		String text = "Shipla";
 		System.setProperty("webdriver.chrome.driver",

@@ -6,6 +6,7 @@ public class WindowActivities {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+//		Windows_activities
 
 		System.setProperty("webdricer.chrome.driver", "C:\\Users\\Admin\\Desktop\\Selenium\\chromedriver114\\chromedriver.exe");
 		ChromeOptions options=new ChromeOptions();

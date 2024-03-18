@@ -12,7 +12,7 @@ public class linkCount {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		
+//		Get number of links on page the total no of links
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Desktop\\Selenium\\chromedriver\\chromedriver\\chromedriver.exe");
 		ChromeOptions options= new ChromeOptions();
 		options.addArguments("--remote-allow-origins=*");
