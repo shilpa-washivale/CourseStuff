@@ -6,5 +6,18 @@
       <class name="test.TestNG"/>
       
     </classes>
+    
+    
   </test> <!-- Test -->
+  
+  <test name="TestNG">
+  <classes>
+  <class name="test.Testng2">
+  <methods>
+  <exclude name="eat"/>
+  </methods>
+  </class>
+  
+  </classes>
+  </test>
 </suite> <!-- Suite -->
